@@ -1,0 +1,13 @@
+{
+  "name": "example-qt-app",
+  "private": true,
+  "type": "module",
+  "description": "How to Test a Qt Application (No Object Names Required)",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "testdriverai": "latest",
+    "vitest": "^4.0.18"
+  }
+}
